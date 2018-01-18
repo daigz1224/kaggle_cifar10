@@ -1,0 +1,4 @@
+- train [kaggle - CIFAR-10](https://www.kaggle.com/c/cifar-10/data)
+- test
+- trainLabels.csv
+- sampleSubmission.csv
